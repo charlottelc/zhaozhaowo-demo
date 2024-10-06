@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="coll003" %}
+{% include feature/jumbotron.html objectid="test003" %}
 
 ## About Zhao Zhao Wo Demo
 
